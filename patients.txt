@@ -1,0 +1,6 @@
+hg1074/02-10-1974/House,Gregory/ERush/120,95,38,105;110,96,39,111
+wj0580/24-05-1980/Wilson,James/AmogusSus/
+tc0548/15-05-1948/Taub,Chris/TicctoccBrainDamage/90,96,37,15
+ca0100/01-01-2000/Cameron,Allison/NocapSyndrome/
+fe0890/19-08-1990/Foreman,Eric/AmogusSus,ERush/210,97,37,61;180,98,38,100
+na0215/02-02-2015/Noname,Andie/NocapSyndrome,TicctoccBrainDamage/
